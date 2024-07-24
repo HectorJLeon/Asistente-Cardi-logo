@@ -23,4 +23,4 @@
 #### • RestingECG [Normal = 1, ST = 2, HVI = 0]
 #### • ExerciseAngina: [Y = 1, N = 0]
 #### • STSlope: [Up = 2, Flat = 1, Down = 0]
-# 2. Encontramos en el Heart Failure Prediction Dataset , que numerosas filas tenían valor 0 en la columna Colesterol, lo cuál es imposible clínicamente, esto significa que no se contaba con la medida del Colesterol de esos pacientes, para continuar con nuestro modelo de regresión reemplazamos los valores 0 por la media de los valores que no son 0 en la columna Colesterol. La media es de aproximadamente 244.
+## 2. Encontramos en el Heart Failure Prediction Dataset , que numerosas filas tenían valor 0 en la columna Colesterol, lo cuál es imposible clínicamente, esto significa que no se contaba con la medida del Colesterol de esos pacientes, para continuar con nuestro modelo de regresión reemplazamos los valores 0 por la media de los valores que no son 0 en la columna Colesterol. La media es de aproximadamente 244.
