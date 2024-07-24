@@ -1,0 +1,1 @@
+# En breves lineas, el objetivo principal del trabajo es crear un modelo de regresión logística para predecir si un paciente padece o no de una enfermedad en el corazón, a través de 11 características que posee el Heart Failure Prediction Dataset.
